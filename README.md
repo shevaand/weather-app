@@ -42,3 +42,9 @@ DOM manipulation
 Handling user input
 Mapping API data to UI elements
 Working with external resources
+
+## Screenshots
+
+![Main page](./screenshots/start.png)
+![City autocomplete](./screenshots/autocomplete.png)
+![Hourly forecast](./screenshots/hourly-popup.png)
